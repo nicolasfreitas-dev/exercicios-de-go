@@ -1,7 +1,3 @@
-package main
-
-import "fmt"
-
 /*
 Utilizando o operador curto de declaração, atribua estes valores às variáveis com os identificadores "x", "y", e "z".
 
@@ -13,6 +9,10 @@ Agora demonstre os valores nestas variáveis, com:
 Uma única declaração print
 Múltiplas declarações print
 */
+
+package main
+
+import "fmt"
 
 func main() {
 	x := 42
